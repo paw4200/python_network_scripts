@@ -17,5 +17,5 @@ pip install netmiko
 ~~~
 ### colorama
 ~~~
-colorama
+pip install colorama
 ~~~
