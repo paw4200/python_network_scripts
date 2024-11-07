@@ -15,3 +15,7 @@ pip install easygui
 ~~~
 pip install netmiko
 ~~~
+### colorama
+~~~
+colorama
+~~~
